@@ -19606,9 +19606,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9332cf807e34e4b4494d7554da3c7d00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadDelay: 1
+  loadDelay: 0.85
   crashEffect: {fileID: 688200895}
   crashSFX: {fileID: 8300000, guid: 086c5d4182dba475aa5944e88b4b84f9, type: 3}
+  hasCrashed: 0
 --- !u!114 &2057820905
 MonoBehaviour:
   m_ObjectHideFlags: 0
